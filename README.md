@@ -4,4 +4,4 @@ This repo combines a research article's approach with a simple adlick prediction
 
 Project was part of M.tech semester 1, Applied Mathematics and Computational Science, at Nirma University.
 
-Done in collaboration with my coulleague yagnesh bhadiyadra 
+Done in collaboration with my coulleague yagnesh bhadiyadra https://github.com/yagneshmb
